@@ -1,0 +1,21 @@
+LTSpice:
+seleccionar grafico de la curva.
+file -> export
+	format: polar
+sacar primera linea
+
+*****************
+Que incluye el tp?
+-Analisis del problema
+-Solucion matematica
+-Normalizacion (poner componentes comerciales). Estoy incluye mathcad y lt
+-(Bode). Mathcad y lt
+-Respuesta excitacion
+	-delta(t) 	-> Mathcad
+	-u(t)		-> M y lt
+	-sen		-> M y lt
+-Conclusion
+
+
+
+Skip initial operatiing point solution -> checked para transitorio en lt
